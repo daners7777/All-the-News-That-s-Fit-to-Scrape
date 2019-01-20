@@ -1,0 +1,17 @@
+.jumbotron {
+   background: green;
+}
+
+body {
+    font-family: 'Tahoma', sans
+    
+}
+
+h1 {
+    font-family: 'Tahoma', cursive;
+    text-align: center;
+}
+
+.panel-heading {
+    background-color: orange;
+}
